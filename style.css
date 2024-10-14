@@ -1,0 +1,60 @@
+body{
+    background: url(/img/Pemandangan.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    padding: 60px;
+    display: flex;
+    align-items: center;   
+    justify-content: center;
+    height: 100vh;
+}
+
+form{
+    padding: 20px;
+    border-radius: 15px;
+    width: 300px;
+    height: 300px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+}
+
+label{
+    font-weight: bold;
+    margin-bottom: 10px;
+    display: block;
+    color: #575757;
+}
+
+select{
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    background-color: #f9f9f9;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+select[multiple] {
+    height: 100px;
+}
+
+input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #03f6e2;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+input[type="submit"]:hover{
+    background-color: #03e6d3;
+}
+

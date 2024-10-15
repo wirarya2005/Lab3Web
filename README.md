@@ -38,5 +38,29 @@ Kelas: TI.23.A2
 - Di `input[type="submit]` saya menambahkan beberapa style. `width: 100%;`, `padding: 10px;`, `background-color: #03f6e2;`, `border: none;`, `border-radius: 10px;`, `color: white;`,  `font-size: 16px;`, `cursor: pointer;`, `font-weight: 600;`
 - Di `input[type="submit]:hover` saya menambahkan style `background-color: #03e6d3;`
 
-### ScreenShoot (Hasil Akhir dengan CSS)
+### ScreenShot (Hasil Akhir dengan CSS)
 ![css-drop-hasil-akhir](/screenshoot/dropdown-with-css.png)
+
+## List `ul`, `ol`, `dl` (Praktikum)
+
+![list-html-1](/screenshoot/list-html-1.png)
+![list-html-1](/screenshoot/list-html-2.png)
+
+### Penjelasan
+- Didalam file html tersebut terdapat beberapa list : `ul`(unorderlist), `ol`(orderedlist), `dl`(descriptionlist).
+
+### Screenshot List HTML (Praktikum)
+![hasil-html-list](/screenshoot/hasil-list-html.png)
+
+## Form (Praktikum)
+
+![form-1](/screenshoot/form-html-1.png)
+![form-2](/screenshoot/form-html-2.png)
+![form-3](/screenshoot/form-html-3.png)
+
+### Penjelasan
+- Didalam file html tersebut saya membuat sebuah form, yang di dalamnya terdapat sebuah tag `fieldset`, `legend`, `p`, `label`, `input`
+- Terdapat style yang menggunakan metode internal css, yang di dalamnya terdapat beberapa style, di antaranya adalah menambahkan padding, mengubah warna.
+
+### Screenshot Form (Praktikum)
+![hasil-form-akhir](/screenshoot/hasil-form.png)
